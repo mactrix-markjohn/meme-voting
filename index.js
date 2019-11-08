@@ -84,7 +84,7 @@ window.addEventListener('load',async () => {
       creatorName: meme.name,
       memeUrl: meme.url,
       index: i,
-      votes: meme.voteCount,
+      votes: meme.voteCount
     });
 
   }
